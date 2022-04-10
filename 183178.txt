@@ -1,0 +1,10 @@
+4. git clone "https://github.com/MonikaNechkoska/SI_2022_lab1_183178.git"
+cd SI_2022_lab1_183178
+5. Iskoristiv git commit -m "Add 5 items to the shopping list"
+6. Iskoristiv git commit -m "Add quantities to the items"
+7. git branch branch1
+git branch branch2
+9. git checkout branch1
+git pull
+git checkout branch2
+git pull
